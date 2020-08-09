@@ -13,7 +13,7 @@ The file is named "whale_analysis_NJ.ipynb" and is stored in the folder "Starter
 
 First, read and cleaned several CSV files for analysis. The CSV files include whale portfolio returns, algorithmic trading portfolio returns, and S&P 500 historical prices. Used the Jupyter Notebook to complete the following steps:
 
-1. Use Pandas to read in each of the [CSV files](Starter_Code/Resources) as a DataFrame. Also, converted the dates to a `DateTimeIndex`.
+1. Used Pandas to read in each of the [CSV files](Starter_Code/Resources) as a DataFrame. Also, converted the dates to a `DateTimeIndex`.
 
 2. Detected and removed the null values.
 
